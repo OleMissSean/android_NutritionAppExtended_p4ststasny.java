@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@mipmap/pic">
+
+    //*This satisfies the Dynamic UI Concept
+    <include
+        android:id="@+id/tool_bar"
+        layout="@layout/tool_bar"
+        ></include>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="NutraPal"
+        android:id="@+id/TV_mainTitle"
+        android:layout_gravity="center_horizontal"
+        android:textSize="28sp"
+        android:textIsSelectable="false" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <!--<Button-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Nutrients Info"-->
+            <!--android:id="@+id/B_callNutrInfo"-->
+            <!--style="@style/TextAppearance.AppCompat.Button"-->
+            <!--android:layout_gravity="left"-->
+            <!--android:layout_weight="1" />-->
+
+        <!--<Button-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="New Button"-->
+            <!--android:id="@+id/test_button"-->
+            <!--android:layout_weight="1" />-->
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="V |Press &amp; Hold Star| V"
+        android:id="@+id/clickTitle"
+        android:layout_gravity="center_horizontal" />
+
+    //*This satisfies the Drawable Concept
+    //*This satisfies the LongPress Concept
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/clickz"
+        android:layout_gravity="center_horizontal"
+        android:background="@android:drawable/btn_star" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/type"
+        android:layout_gravity="center_horizontal" />
+
+    //*This satisfies the Drawable Concept
+    //*This satisfies the Dynamic UI Concept
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/iv"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
+

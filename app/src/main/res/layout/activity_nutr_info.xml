@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    //*This satisfies the Dynamic UI Concept
+    <FrameLayout
+        android:id="@+id/listFragment"
+        android:layout_width="0px"
+        android:layout_weight="5"
+        android:layout_height="match_parent">
+    </FrameLayout>
+
+    //*This satisfies Fragment Concept
+    <fragment
+        android:name="edu.olemiss.p4ststasny.InfoFrag"
+        android:id="@+id/infoFragment"
+        android:layout_width="0px"
+        android:layout_weight="7"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

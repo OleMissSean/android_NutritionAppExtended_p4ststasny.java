@@ -1,0 +1,252 @@
+<resources>
+    <string name="app_name">p4ststasny</string>
+    <string name="hello">Hello World, ScrollView!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="healProp">The Healing Properties</string>
+
+    //*This satisfies the Dynamic UI Concept
+    <string-array name="nameArray">
+        <item>vitaminbone</item>
+        <item>vitaminbtwo</item>
+        <item>vitaminbthree</item>
+        <item>vitaminbfive</item>
+        <item>vitaminbsix</item>
+        <item>vitaminbseven</item>
+        <item>vitaminbnine</item>
+        <item>vitaminbtwelve</item>
+        </string-array>
+
+    //*This satisfies the Dynamic UI Concept
+    <string-array name="nameArray2">
+        <item>Vitamin B1</item>
+        <item>Vitamin B2</item>
+        <item>Vitamin B3</item>
+        <item>Vitamin B5</item>
+        <item>Vitamin B6</item>
+        <item>Vitamin B7</item>
+        <item>Vitamin B9</item>
+        <item>Vitamin B12</item>
+    </string-array>
+
+    //*This satisfies the Dynamic UI Concept
+    <string-array name="nutrDescr">
+        <item>Calcium makes up more of the body than an other mineral. Calcium\'s functions include delivering signals between brain cells, building strong bones and teeth, regulating muscle contractions, and aids in blood clotting. Adults need 700 mg of Calcium a day.</item>
+        <item>Most of us know that too much sodium in the form of salt can raise blood pressure. Less well known is that fact that too little potassium also contributes to blood pressure. Falling short on potassium may also increase the risk of kidney stones and osteoporosis.</item>
+        <item>Magnesium is required for more than 300 biochemical reactions in the body. It helps regulate blood pressure, maintains bone strength, and ensures a healthy immune system. Magnesium also aids in the health of brain cells.</item>
+        <item>Iodine is a mineral found in some foods. The body needs iodine to make thyroid hormones. These hormones control the body\'s metabolism and many other important functions. The body also needs thyroid hormones for proper bone and brain development during pregnancy and infancy.</item>
+        <item>Phosphorus is an essential nutrient required for proper cell functioning, regulation of calcium, strong bones and teeth, and for making ATP (adenosine triphosphate) a molecule which provides energy to our cells. A deficiency in phosphorus can lead to lowered appetite, anemia, muscle pain, improper bone formation (rickets), numbness, and a weakened immune system.</item>
+        <item>Your body needs sodium to maintain blood pressure and for normal nerve and muscle function. Getting too much sodium might cause blood pressure problems that can lead to health problems. It\'s easy to get enough sodium from the foods you eat and, in fact, it\'s more likely that you\'re getting more sodium than you need.</item>
+        <item>This crucial nutrient is key to maintaining healthy eyesight and robust immunity. It also plays a role in many other physiological functions, including tissue growth.</item>
+        <item>The B vitamin family is made up of eight B vitamins. Although they are commonly recognized as a group and often work together in the body, each of the B vitamins performs unique and important functions.</item>
+        <item>Vitamin C may not ward off colds, as once believed, but it is essential for maintaining a strong immune system. A potent antioxidant, vitamin C may help lower the risk of cancer. It\'s also required for wound healing. The 2010 Dietary Guidelines for Americans reports that some diets fall short of this critical nutrient.</item>
+        <item>The sunshine vitamin, D is produced by the skin when we\'re exposed to sunlight. Since many of us work inside, we may not get enough sun exposure to generate adequate vitamin D. Although recent research suggests that vitamin D may be important for a range of functions, the best evidence points to its essential role in building and maintaining strong bones.</item>
+        <item>Vitamin E is a potent antioxidant. By neutralizing unstable oxygen molecules, it may help prevent damage to cells that could lead to cancer. Severe vitamin E deficiencies can cause nerve damage. Because many Americans don\'t get enough nuts and unsaturated oils, they may be in danger of falling short on this crucial nutrient.</item>
+        <item>Vitamin K is essential for normal blood clotting. It also appears to play crucial roles in bone mineralization and cell growth. Falling short may cause bruising, nosebleeds, and brittle bones, among other problems.</item>
+        <item>A higher-fiber diet has been shown to lower blood cholesterol levels and prevent constipation. High-fiber foods also tend to contain more nutrients and fewer calories, are digested more slowly, and help us feel full sooner. Adults are recommended 30 to 45 grams a day.</item>
+        <item>Choline is utilized by the body in a variety of ways including aiding nerve signaling, maintenance of cell membranes, transporting triglycerides from the liver, and as a constituent of nervous system tissues in early brain development.</item>
+        <item>Linoleic acid, or omega-6 fatty acid, and linolenic acid, or omega-3 fatty acid, are the two essential fatty acids. They are termed as essential because the body cannot synthesize them and needs to obtain them from the diet. Both omega-3 and omega-6 fatty acids are important components of cell membranes and are precursors to many other substances in the body such as those involved with regulating blood pressure and inflammatory responses.</item>
+        <item>Linolenic acid, or omega-3 fatty acid, and linoleic acid, or omega-6 fatty acid, are the two essential fatty acids. They are termed as essential because the body cannot synthesize them and needs to obtain them from the diet. Both omega-3 and omega-6 fatty acids are important components of cell membranes and are precursors to many other substances in the body such as those involved with regulating blood pressure and inflammatory responses.</item>
+        <item>Histidine regulates the immune defense in the body, allergic reactions and inflammatory processes, so a deficiency of L-histidine can lead to an increased tendency towards infection and the aggravation of symptoms of allergies.</item>
+        <item>Isoleucine is one of the amino acids, which are the building blocks of proteins. The proteins in the food you eat and the proteins in your body all contain variable amounts of isoleucine. Your cells use the isoleucine you eat for several different purposes, including helping to provide your cells with energy.</item>
+        <item>Like many amino acids, lysine is used to build muscles and collagen, which is an important constituent of cartilage, connective tissue and skin. It must be obtained from dietary sources because your body cannot synthesize it.</item>
+        <item>Lysine is one of 20 amino acids commonly used by your body to build protein. Of these 20, lysine is considered an essential amino acid, which means it must be obtained from dietary sources because your body cannot synthesize it. Plants can make lysine from aspartic acid, as can bacteria species, which is why lysine is found within leafy vegetables, legumes, fish and herbivorous animals.</item>
+        <item>When protein is in food the food, your digestive system breaks it down into amino acids, and your body uses these to manufacture hundreds of new proteins needed by all your cells. Two amino acids, called cysteine and methionine, are unusual because they contain the element sulfur, which plays an important role in determining the shape of new proteins by helping these compounds fold.</item>
+        <item>Phenylalanine is an essential amino acid (a building block for proteins in the body), meaning the body needs it for health but cannot make it. You have to get it from food.The body changes phenylalanine into tyrosine, another amino acid that\'s needed to make proteins; brain chemicals, including L-dopa, epinephrine, and norepinephrine; and thyroid hormones. Because norepinephrine affects mood, different forms of phenylalanine have been proposed to treat depression.</item>
+        <item>Threonine is one of the 20 amino acids that constitute proteins. It is an essential amino acid and not synthesized by humans. Therefore, threonine has to be obtained from dietary sources. Threonine supports cardiovascular, liver, central nervous, and immune system function. Threonine aids in the synthesis of glycine and serine, two amino acids that help in the production of collagen, elastin, and muscle tissue. Threonine helps build strong bones and tooth enamel.</item>
+        <item>Amino acids help to create proteins that aid in neurotransmission messages to and from the brain. Tryptophan is an essential amino acid that plays a vital role in this process. Tryptophan is a precursor of 5-HTP or serotonin which is acquired from dietary sources. Tryptophan combines with vitamin B6, transforming into serotonin and niacin in the liver. This helps to improve blood circulation, enhance memory and lower cholesterol.</item>
+        <item>Valine is a branched-chain amino acid (BCAA) that works with the other two BCAAs, isoleucine and leucine, to promote normal growth, repair tissues, regulate blood sugar, and provide the body with energy. Valine helps stimulate the central nervous system, and is needed for proper mental functioning. Valine helps prevent the breakdown of muscle by supplying the muscles with extra glucose for energy production during intense physical activity.</item>
+    </string-array>
+
+    //*This satisfies the Dynamic UI Concept
+    <string-array name="nutrSources">
+        <item>• Leafy greens \n• Sesame seeds \n• Oranges \n• Almonds \n• Beans \n• Chia seeds</item>
+        <item>• Potatoes \n• Tomatoes \n• Spinach \n• Carrots \n• Beans \n• Lentils \n• Green Peas \n• Bananas \n• Oranges</item>
+        <item>•	Oatmeal \n• Nuts \n• Peanut Butter \n• Lentils \n• Spinach</item>
+        <item>•	Yogurt \n• Organic Eggs \n• Seaweed \n• Cranberries \n• Navy Beans \n• Strawberries</item>
+        <item>•	Pumpkin Seeds \n• Squash Seeds \n• Sunflower Seeds \n• Chia Seeds \n• Sesame Seeds \n• Watermelon Seeds \n• Flaxseeds \n• Wild Caught Salmon \n• Brazil Nuts \n• Pine Nuts</item>
+        <item>*(CONSUME WITH CAUTION)* - Though Sodium is an Essential Mineral you don\'t need a lot of it to perform these functions, and getting too much will put the electrolytes out of balance and lead to many health problems. Sodium is found naturally in most of the foods you eat, at least in small amounts, with much larger amounts in soy sauce and processed foods.</item>
+        <item>•	Dark green veggies \n• Bright colored veggies \n• Squash \n• Mango \n• Sweet potatoes</item>
+        <item>•	Red Meats \n• Yeast \n• Nuts \n• Sunflower Seeds \n• Peas \n• Cauliflower \n• Spinach \n• Legumes </item>
+        <item>•	Citrus Fruits \n• Peaches \n• Broccoli \n• Kale \n• Cauliflower</item>
+        <item>•	Sunlight \n• Mushrooms \n• Organic Eggs \n• Tuna \n• Wild Caught Salmon \n• Sunflower Seeds</item>
+        <item>•	Almonds \n• Sunflower Seeds \n• Avocados \n• Bell Peppers \n• Red Chili Powder \n• Paprika</item>
+        <item>•	Broccoli \n• Avacado \n• Green apples \n• Green grapes \n• Limes \n• Green Beans \n• Cabbage</item>
+        <item>•	Brown Rice \n• Kale \n• Beans \n• Avocados \n• Rasberries \n• Broccoli \n• Oats \n• Green Peas \n• Cereal</item>
+        <item>•	Pastured Eggs \n• Beef Liver \n• Grass-Fed Raw Dairy \n• Nuts and Legumes \n• Cruciferous Veggies</item>
+        <item>•	Plant Oils \n• Nuts \n• Avocados \n• Fish \n• Organic Eggs</item>
+        <item>•	Plant Oils \n• Nuts \n• Avocados \n• Fish \n• Organic Eggs</item>
+        <item>•	Grass-Fed Red Meat \n• Free-Range Poultry \n• Fish \n• Dairy \n• Rice \n• Wheat \n• Rye \n• Seafood \n• Beans \n• Organic Eggs \n• Buckwheat \n• Corn \n• Cauliflower \n• Mushrooms \n• Potatoes \n• Bamboo shoots</item>
+        <item>•	Lean meats \n• Green beans \n• Lentils \n• Sesame seeds \n• Hummus \n• Brown Rice</item>
+        <item>•	Leafy Green Vegetables \n• Legumes (Peanuts) \n• Fish \n• Herbivorous animals \n• Supplements</item>
+        <item>•	Leafy Green Vegetables \n• Cauliflower \n• Celery \n• Legumes •	Bananas \n• Apples \n• Almonds \n• Grass-Fed Red Meat</item>
+        <item>•	Free-Range Poultry \n• Organic Eggs \n• Oats \n• Yogurt \n• Broccoli \n• Wheat germ \n• Red peppers \n• Onions \n• Garlic \n• Brussels Sprouts</item>
+        <item>•	Seaweed \n• Organic Eggs \n• Turkey \n• Farm-Raised Chicken \n• Peanuts \n• Pumpkin Seeds \n• Sesame Seeds</item>
+        <item>•	Spinach \n• Turnip Greens \n• Seaweed \n• Tofu \n• Pumpkin Leaves \n• Portabella Mushrooms \n• Kale</item>
+        <item>•	Seaweed \n• Spinach \n• Pumpkin Seeds \n• Oat Bran \n• Tofu \n• Alaska King Crab \n• Shrimp</item>
+        <item>•	Portabella Mushrooms \n• Podded Peas \n• Raw Enoki Mushrooms \n• Seaweed \n• Moose \n• Turkey Breast \n• Turnip Greens \n• Raw Cauliflower</item>
+    </string-array>
+
+    //*This satisfies the Dynamic UI Concept
+    <string-array name="nutrHealProp">
+    <item>\n\no	"Calcium\n"</item>
+        <item>  •	Calcium strengthens bones and teeth.</item>
+        <item>  •	Calcium helps maintain heart rhythm.</item>
+        <item>  •	Calcium boots metabolism.</item>
+        <item>  •	Calcium reduces PMS symptoms.</item>
+        <item>  •	Calcium may combat cancer.</item>
+        <item>  •	Calcium aids muscular function.</item>
+    <item>\n\no	"Potassium\n"</item>
+        <item>  •	Potassium aids blood pressure and cardiovascular health.</item>
+        <item>  •	Potassium battles common acidosis.</item>
+        <item>  •	Potassium aids in muscle contraction.</item>
+        <item>  •	Potassium assists carbohydrate metabolism.</item>
+        <item>  •	Potassium helps maintain fluid balance.</item>
+        <item>  •	Potassium aids muscle growth.</item>
+    <item>\n\no	"Magnesium\n"</item>
+        <item>  •	Magnesium improves sleep.</item>
+        <item>  •	Magnesium brings balance to stress hormones.</item>
+        <item>  •	Magnesium relaxes the nervous system.</item>
+        <item>  •	Magnesium supports better flexibility.</item>
+        <item>  •	Magnesium bone integrity and strength.</item>
+        <item>  •	Magnesium battles common acidosis.</item>
+        <item>  •	Magnesium is necessary for proper hydration.</item>
+        <item>  •	Magnesium helps to relieve constipation.</item>
+        <item>  •	Magnesium is important for enzyme function.</item>
+        <item>  •	Magnesium enhances insulin secretion.</item>
+    <item>\n\no	"Iodine\n"</item>
+        <item>  •	Iodine helps maintain proper energy levels.</item>
+        <item>  •	Iodine helps form healthy nails, hair, and teeth.</item>
+        <item>  •	Iodine aids in the normal growth of reproductive organs.</item>
+        <item>  •	Iodine helps prevent stillbirths.</item>
+        <item>  •	Iodine is greatly boosts the immune system.</item>
+        <item>  •	Iodine reduces conditions like fibrosis, turgidity, and breast tenderness.</item>
+        <item>  •	Iodine aids in cancer prevention.</item>
+    <item>\n\no	"Phosphorus\n"</item>
+        <item>  •	Phosphorus is a vital part of bone formation.</item>
+        <item>  •	Phosphorus aids in facilitating effective digestion.</item>
+        <item>  •	Phosphorus keeps the kidneys healthy.</item>
+        <item>  •	Phosphorus helps remove muscle weakness.</item>
+        <item>  •	Phosphorus supports proper brain function.</item>
+    <item>\n\no	"Sodium\n"</item>
+        <item>  •	Sodium helps regulate fluid levels.</item>
+        <item>  •	Sodium helps prevent sun stroke.</item>
+        <item>  •	Sodium aids in keeping the mind sharp.</item>
+        <item>  •	Sodium promotes healthy brain development.</item>
+    <item>\n\no	"Vitamin A\n"</item>
+        <item>  •	Vitamin A strengthens the immune system.</item>
+        <item>  •	Vitamin A has anticancer properties.</item>
+        <item>  •	Vitamin A takes care of vision.</item>
+        <item>  •	Vitamin A keeps the skin and mucous membranes in good conditions.</item>
+        <item>  •	Vitamin A prevents hearing loss.</item>
+        <item>  •	Vitamin A it is necessary for growth.</item>
+        <item>  •	Vitamin A prevents infertility.</item>
+    <item>\n\no	"Vitamin B\n"</item>
+        <item>  •	Vitamin B supports healthy metabolism.</item>
+        <item>  •	Vitamin B reduces the risk of a stroke.</item>
+    <item>\n\no	"Vitamin C\n"</item>
+        <item>  •	Vitamin C boosts immunity.</item>
+        <item>  •	Vitamin C reduces cold symptoms.</item>
+        <item>  •	Vitamin C is a powerful antioxidant.</item>
+        <item>  •	Vitamin C lowers blood pressure.</item>
+        <item>  •	Vitamin C decreases the probability of hypertension.</item>
+        <item>  •	Vitamin C ensures proper dilation of blood vessels.</item>
+        <item>  •	Vitamin C lowers lead levels in our blood.</item>
+        <item>  •	Vitamin C burns fat.</item>
+        <item>  •	Vitamin C reduces stress levels.</item>
+        <item>  •	Vitamin C is required for our eye pupils to function properly.</item>
+        <item>  •	Vitamin C helps prevent cancer.</item>
+    <item>\n\no	"Vitamin D\n"</item>
+        <item>  •	Vitamin D promotes healthy bones.</item>
+        <item>  •	Vitamin D helps prevent the flu.</item>
+        <item>  •	Vitamin D reduces the risk of diabetes.</item>
+        <item>  •	Vitamin D helps promote successful pregnancy.</item>
+        <item>  •	Vitamin D helps prevent cancer.</item>
+    <item>\n\no	"Vitamin E\n"</item>
+        <item>  •	Vitamin E is an antioxidant.</item>
+        <item>  •	Vitamin E protects against toxins</item>
+        <item>  •	Vitamin E reduces PMS symptoms.</item>
+        <item>  •	Vitamin E helps prevent eye disorders.</item>
+        <item>  •	Vitamin E helps prevent neurological disorders.</item>
+    <item>\n\no	"Vitamin K\n"</item>
+        <item>  •	Vitamin K is necessary to maintain adequate blood clotting.</item>
+        <item>  •	Vitamin K helps prevent arterial calcification.</item>
+        <item>  •	Vitamin K helps prevent cardiovascular disease.</item>
+        <item>  •	Vitamin K helps prevent varicose veins.</item>
+        <item>  •	Vitamin K helps prevent osteoporosis.</item>
+        <item>  •	Vitamin K helps prevent prostate cancer.</item>
+        <item>  •	Vitamin K helps prevent lung cancer</item>
+        <item>  •	Vitamin K helps prevent liver cancer</item>
+        <item>  •	Vitamin K helps prevent leukemia.</item>
+    <item>\n\no	"Fiber\n"</item>
+        <item>  •	Fiber normalizes bowel movements.</item>
+        <item>  •	Fiber helps maintain bowel health.</item>
+        <item>  •	Fiber lowers cholesterol levels.</item>
+        <item>  •	Fiber helps control blood sugar levels.</item>
+        <item>  •	Fiber aids in achieving healthy weight.</item>
+    <item>\n\no	"Choline\n"</item>
+        <item>  •	Choline protects from liver damage and can reverse damage.</item>
+        <item>  •	Choline may help lower cholesterol.</item>
+        <item>  •	Choline may help lower homocysteine levels.</item>
+        <item>  •	Choline may help prevent memory loss associated with aging.</item>
+    <item>\n\no	"Omega 6\n"</item>
+        <item>  •	Omega 6 is important for cell growth.</item>
+        <item>  •	Omega 6 is important for proper nervous system function.</item>
+        <item>  •	Omega 6 plays a crucial role in brain function, growth, and development.</item>
+    <item>\n\no	"Omega 3\n"</item>
+        <item>  •	Omega-3 benefits your heart health.</item>
+        <item>  •	Omega-3 normalizes and regulates your cholesterol triglyceride levels.</item>
+        <item>  •	Omega-3 can help bipolar disorder.</item>
+    <item>\n\no	"Histidine\n"</item>
+        <item>  •	Histidine has antifungal properties.</item>
+        <item>  •	Histidine combats anemia.</item>
+    <item>\n\no	"Isoleucine\n"</item>
+        <item>  •	Isoleucine promotes healthy growth.</item>
+        <item>  •	Isoleucine increases the production of hemoglobin.</item>
+        <item>  •	Isoleucine helps maintain normal blood sugar levels.</item>
+    <item>\n\no	"Leucine\n"</item>
+        <item>  •	Leucine aids in weight loss.</item>
+        <item>  •	Leucine may boost the so-called "good" cholesterol.</item>
+        <item>  •	Leucine maintains nitrogen balance.</item>
+        <item>  •	Leucine may increase Human Growth Hormone - somatropin secretion.</item>
+    <item>\n\no	"Lysine\n"</item>
+        <item>  •	Lysine decreases levels of LDL (or bad) cholesterol.</item>
+        <item>  •	Lysine may increase the activity of bone and collagen building cells.</item>
+        <item>  •	Lysine helps prevent herpes outbreaks and heal herpes sores.</item>
+        <item>  •	Lysine is critical for proper body growth.</item>
+        <item>  •	Lysine may help decrease the duration or intensity of the Shingles.</item>
+    <item>\n\no	"Cystine\n"</item>
+        <item>  •	Cystine is helpful in the healing of burns.</item>
+        <item>  •	Cystine strengthens the protective lining of the stomach and intestines.</item>
+        <item>  •	Cystine functions as an antioxidant.</item>
+        <item>  •	Cystine protects against radiation and pollution.</item>
+        <item>  •	Cystine provides detoxification from cigarettes and alcohol.</item>
+        <item>  •	Cystine may be effective in preventing hangovers.</item>
+        <item>  •	Cystine may be effective in preventing liver damage.</item>
+        <item>  •	Cystine may be effective in preventing brain damage.</item>
+    <item>\n\no	"Tyrosine\n"</item>
+        <item>  •	Tyrosine benefits mental health.</item>
+        <item>  •	Tyrosine benefits mental performance.</item>
+        <item>  •	Tyrosine can help depression.</item>
+    <item>\n\no	"Threonine\n"</item>
+        <item>  •	Threonine assists in the formation of collagen and elastin.</item>
+        <item>  •	Threonine helps fight fatty liver.</item>
+        <item>  •	Threonine helps the production of antibodies.</item>
+        <item>  •	Threonine promotes thymus growth and activity.</item>
+    <item>\n\no	"Tryptophan\n"</item>
+        <item>  •	Tryptophan helps maintain a calm and relaxed mood.</item>
+        <item>  •	Tryptophan may help depression.</item>
+        <item>  •	Tryptophan can aid in boosting so-called "good" cholesterol.</item>
+        <item>  •	Tryptophan can aid in reducing so-called "bad" cholesterol.</item>
+        <item>  •	Tryptophan is a effective sleep aid.</item>
+        <item>  •	Tryptophan reduces PMS symptoms.</item>
+        <item>  •	Tryptophan aids in weight loss.</item>
+        <item>  •	Tryptophan may increase human growth hormone levels.</item>
+    <item>\n\no	"Valine\n"</item>
+        <item>  •	Valine is needed for muscle metabolism.</item>
+        <item>  •	Valine is required for tissue repair.</item>
+        <item>  •	Valine is necessary for maintenance of a proper nitrogen balance.</item>
+        <item>  •	Valine can be used as an energy source by muscle tissue.</item>
+        <item>  •	Valine may be helpful in treating liver and gallbladder disease.</item>
+    </string-array>
+</resources>
